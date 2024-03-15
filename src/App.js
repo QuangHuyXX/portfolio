@@ -130,8 +130,8 @@ function App() {
       {/* mobile */}
       <Box className="contact-mobile">
         <Box className="contact-container">
-          <Box className="contact-email"> <img src={mail} className="mail" alt="logo" /> </Box>
-          <Box className="contact-linkedln "> <img src={linkedin} className="linkedin" alt="logo" /> </Box>
+          <a href='mailto:quanghuyxdemo@gmail.com' className="contact-email"> <img src={mail} className="mail" alt="logo" /></a>
+          <a href='https://www.linkedin.com/in/huy-quang-2a6818193/' className="contact-linkedln "> <img src={linkedin} className="linkedin" alt="logo" /></a>
         </Box>
       </Box>
       <Box className="footer">
