@@ -70,7 +70,7 @@ function App() {
           </Box>
           <Box className="about-description" sx={{ marginTop: "2rem" }}>
             <Typography sx={{ fontSize: "1.2rem", textAlign: "center" }} className="description">
-              Hello, my name is Hoàng Nguyễn Quang Huy, and I'm a 23-year-old programmer who is deeply passionate about creativity and technology. I thrive on the challenges and excitement that programming brings, constantly seeking new ways to innovate and solve problems. My current focus is on accumulating experience and personal growth, as I believe these are crucial steps towards achieving my goals in the tech industry. With a fervent love for coding and a determination to continually develop my skills, I am committed to making meaningful contributions and advancing both personally and professionally in the field of programming. Moreover, I am always ready to connect with people from all walks of life and from around the globe.
+              Hello, my name is Hoang Nguyen Quang Huy, and I'm a 23-year-old programmer who is deeply passionate about creativity and technology. I thrive on the challenges and excitement that programming brings, constantly seeking new ways to innovate and solve problems. My current focus is on accumulating experience and personal growth, as I believe these are crucial steps towards achieving my goals in the tech industry. With a fervent love for coding and a determination to continually develop my skills, I am committed to making meaningful contributions and advancing both personally and professionally in the field of programming. Moreover, I am always ready to connect with people from all walks of life and from around the globe.
             </Typography>
           </Box>
         </Grid>
